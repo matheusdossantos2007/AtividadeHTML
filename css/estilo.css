@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid #1f80ee;
+    padding: 2px;
+    text-align: left;
+}
+
+th{
+    background-color: rgb(175, 196, 241);
+}
+.Titulo {
+    text-align: center;
+    color: rgb(150, 111, 38);
+
+}
